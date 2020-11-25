@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6be10edb-bd46-4262-a853-089e9edc55c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\myrepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1kk62KI7Cnu8xu0LhCtNtwGTikS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springsecurity01" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idealworkspace\SpringBoot\SpringSecurity\springsecurity02\infrastructure\api_getway\src\main\resources" />
+      <recent name="E:\idealworkspace\SpringBoot\SpringSecurity\springsecurity02\service\service_acl\src\main\resources" />
+      <recent name="E:\idealworkspace\SpringBoot\SpringSecurity\springsecurity02\service\service_acl\src\main\java\com\ljx\aclservice" />
+      <recent name="E:\idealworkspace\SpringBoot\SpringSecurity\springsecurity02\common\service_base\src\main\java\com\ljx" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6be10edb-bd46-4262-a853-089e9edc55c5" name="Default Changelist" comment="" />
+      <created>1606232033023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606232033023</updated>
+      <workItem from="1606232035882" duration="2943000" />
+      <workItem from="1606259348104" duration="16946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="929" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1606267956896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="929" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606267956896" />
+    <state x="274" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606268936730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="274" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1606268936730" />
+    <state x="904" y="181" key="FileChooserDialogImpl" timestamp="1606281192052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="904" y="181" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606281192052" />
+    <state x="540" y="74" width="996" height="711" key="SettingsEditor" timestamp="1606264088656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="74" width="996" height="711" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606264088656" />
+    <state x="565" y="190" key="chooseDestDirectoryDialog" timestamp="1606265547566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1606265547566" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1606281620748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1606281620748" />
+    <state x="629" y="121" width="907" height="610" key="new project wizard" timestamp="1606232728765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="629" y="121" width="907" height="610" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1606232728765" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1606233743127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1606233743127" />
+    <state x="786" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606273985723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="786" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606273985723" />
+  </component>
+</project>
